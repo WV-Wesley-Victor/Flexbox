@@ -1,0 +1,49 @@
+Esse código HTML e CSS demonstra o uso do Flexbox, um modelo de layout flexível do CSS, que permite criar layouts responsivos e alinhar elementos em um contêiner de forma flexível. Vou explicar cada parte do código:
+
+- <!DOCTYPE html>: Define o tipo de documento como HTML5.
+
+- <html lang="pt-br">: Elemento raiz do documento HTML com o atributo lang definido como "pt-br" para português brasileiro.
+
+- <head>: O elemento head contém metadados e outras informações sobre o documento.
+
+- Meta tags: As linhas com <meta> definem algumas informações úteis para mecanismos de busca e outros processos. O atributo charset="UTF-8" define a codificação do caractere como UTF-8, garantindo o suporte a caracteres especiais. A meta tag viewport controla o dimensionamento da página em dispositivos móveis.
+
+- <title>Flexbox</title>: Define o título da página como "Flexbox", que será exibido na aba do navegador ou na barra de título da janela.
+
+- <style>: O elemento style contém o código CSS embutido, onde são definidos os estilos para a página.
+
+- Estilos para os elementos com classes .flexbox e .flexbox div: São definidos os estilos para o contêiner flex (.flexbox) e seus itens filhos (div).
+
+    .flexbox: O contêiner flex possui uma altura de 250 pixels, borda vermelha com espessura de 3 pixels e é exibido como flexbox. margin-bottom: 16px cria um espaço de 16 pixels abaixo do contêiner.
+
+    .flexbox div: Os itens filhos do contêiner flex (elementos div) possuem uma borda laranja com espessura de 2 pixels, largura de 150 pixels e margem de 15 pixels.
+
+- Estilos para os contêineres flex com classes .flex-container1 a .flex-container10: São definidos os estilos para cada contêiner flex.
+
+    .flex-container1: O contêiner flex usa flex-flow: row wrap, que define a direção principal como "row" (linha) e permite que os elementos sejam distribuídos em várias linhas (quebra de linha) se não couberem em uma única linha.
+
+    .flex-container2: O contêiner flex usa justify-content: space-around, que distribui os itens com espaçamento uniforme entre eles.
+
+    .flex-container3: O contêiner flex usa justify-content: space-around e align-items: center, que distribui os itens com espaçamento uniforme na direção principal (horizontalmente) e os alinha verticalmente ao centro.
+
+    .flex-container4: O contêiner flex usa justify-content: space-around e align-items: baseline, que distribui os itens com espaçamento uniforme na direção principal e os alinha verticalmente na linha de base.
+
+    .flex-container5: O contêiner flex usa justify-content: center, align-content: stretch e flex-wrap: wrap, que centraliza os itens horizontalmente, estende os itens para preencher a altura do contêiner e permite quebrar linhas se necessário.
+
+    .flex-container6: O contêiner flex usa justify-content: flex-end, align-items: flex-start e flex-direction: row-reverse, que alinha os itens horizontalmente à direita, os alinha verticalmente no topo e inverte a direção principal para ser da direita para a esquerda.
+
+    .flex-container7: O contêiner flex usa justify-content: flex-end, align-items: flex-start e flex-direction: column, que alinha os itens verticalmente no topo, os alinha horizontalmente à direita e muda a direção principal para ser de cima para baixo.
+
+    .flex-container8: O contêiner flex usa justify-content: center, align-items: center e gap: 10px, que centraliza os itens horizontal e verticalmente e define um espaço de 10 pixels entre os itens.
+
+    .flex-container9: O contêiner flex usa justify-content: center, align-items: center e gap: 10px, que centraliza os itens horizontal e verticalmente e define um espaço de 10 pixels entre os itens.
+
+    .flex-container10: O contêiner flex usa flex-direction: row, que define a direção principal como "row" (linha) e os itens são alinhados na direção horizontal. Além disso, são aplicadas algumas propriedades para os itens filhos com classes .div1 e .div2 para alterar sua ordem e alinhamento.
+
+- </style>: Fecha o elemento style.
+
+- <body>: O elemento body contém o conteúdo visível da página.
+
+- Vários elementos <div>: Os contêineres flex com diferentes classes são criados para demonstrar os diferentes comportamentos do Flexbox com as propriedades definidas nos estilos.
+
+Cada contêiner flex possui itens filhos (divs) com números dentro deles (1, 2, 3, 4). Os estilos aplicados a cada contêiner flex demonstram as diferentes opções de alinhamento e distribuição de itens usando o Flexbox. Os resultados podem ser visualizados ao executar o código em um navegador. Cada contêiner flex tem uma aparência diferente com base nas propriedades CSS aplicadas a eles.
