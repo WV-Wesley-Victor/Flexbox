@@ -3,7 +3,7 @@
 
 ![Captura de Tela (43)](https://github.com/WV-Wesley-Victor/Flexbox/assets/137107062/764377ab-abc6-450e-aa6b-58a5d97d6523)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Layout/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Flexbox/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
