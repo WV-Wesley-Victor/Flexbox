@@ -28,4 +28,4 @@ Se você possui experiência com Flexbox e deseja compartilhar suas dicas, truqu
 * Wesley Victor - https://github.com/WV-Wesley-Victor
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE)  para obter detalhes
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE)  para obter detalhes.
