@@ -15,6 +15,27 @@ Este repositório no GitHub é uma coleção de tutoriais, exemplos e recursos p
 * Responsividade: Descubra como utilizar o Flexbox para criar layouts que se ajustam automaticamente em diferentes dispositivos e tamanhos de tela.
 * Exemplos Práticos: O repositório inclui diversos exemplos práticos que demonstram a aplicação do Flexbox em situações reais.
 
+## Fontes de Pesquisa
+Flexbox é uma técnica poderosa para criar layouts flexíveis e responsivos em CSS. Aqui estão algumas fontes de pesquisa para aprender Flexbox:
+
+* MDN Web Docs - Flexbox: A documentação da MDN oferece um guia abrangente sobre Flexbox, incluindo explicações detalhadas e exemplos práticos.
+Documentação: https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout
+* CSS-Tricks Guide to Flexbox: O CSS-Tricks tem um guia completo sobre Flexbox, com exemplos, dicas e truques.
+Artigo: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Flexbox Froggy: Um jogo interativo que ajuda a aprender Flexbox de maneira prática e divertida.
+Site: https://flexboxfroggy.com/
+* Traversy Media (YouTube): Brad Traversy tem um tutorial em vídeo sobre Flexbox, explicando os conceitos básicos e avançados.
+Vídeo Tutorial: https://www.youtube.com/watch?v=JJSoEo8JSnc
+* Codecademy: A Codecademy oferece um curso interativo dedicado a Flexbox, onde você pode aprender e praticar a técnica.
+Curso: https://www.codecademy.com/learn/learn-flexbox
+* YouTube em geral: Pesquisar por "Flexbox tutorial" no YouTube fornecerá uma variedade de vídeos explicativos sobre o assunto.
+* GitHub: Procure por repositórios públicos no GitHub que contenham exemplos de código Flexbox. Analisar projetos existentes pode ajudar a compreender como aplicar Flexbox na prática.
+Pesquise por: https://github.com/topics/css-flexbox
+* Frontend Mentor: O Frontend Mentor oferece desafios de design com layouts que podem ser criados usando Flexbox.
+Site: https://www.frontendmentor.io/challenges
+
+Lembre-se de que a prática é crucial ao aprender Flexbox. Experimente criar layouts flexíveis por conta própria e pratique com exemplos para entender completamente como o Flexbox funciona e como aplicá-lo para criar designs responsivos e elegantes.
+
 ## Instruções de Instalação (caso aplicável)
 Este projeto é uma coleção de tutoriais e exemplos disponibilizados online, não requerendo instalação local. Basta acessar o URL fornecido e explorar os recursos disponíveis.
 
